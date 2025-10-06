@@ -1,4 +1,6 @@
 import "../css/results.css"
+import { useEffect } from "react"
+
 export default function Results(){
 
     return(
